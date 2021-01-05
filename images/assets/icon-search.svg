@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>icon-search</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <rect id="Rectangle" fill="#372868" sketch:type="MSShapeGroup" x="0" y="0" width="32" height="32"></rect>
+        <path d="M23.6608932,21.55 L19.8082134,17.7 C20.408631,16.75 20.7088399,15.65 20.7088399,14.45 C20.7088399,11 17.7067517,8 14.2543503,8 C10.8019489,8 8,10.8 8,14.25 C8,17.7 11.0020882,20.7 14.4544895,20.7 C15.60529,20.7 16.7060556,20.4 17.6066821,19.85 L21.4593619,23.7 C21.8596403,24.1 22.4600579,24.1 22.8103016,23.7 L23.7609628,22.75 C24.1612412,22.4 24.0111368,21.9 23.6608932,21.55 L23.6608932,21.55 Z M9.77777778,14.1223471 C9.77777778,11.7253433 11.7253433,9.77777778 14.1223471,9.77777778 C16.5193508,9.77777778 18.6666667,11.9250936 18.6666667,14.3220974 C18.6666667,16.7191011 16.7191011,18.6666667 14.3220974,18.6666667 C11.8751561,18.6666667 9.77777778,16.5193508 9.77777778,14.1223471 L9.77777778,14.1223471 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
