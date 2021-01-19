@@ -5493,7 +5493,6 @@ tr:first-child .content-table .content-table-th-row td, tr:first-child .content-
 }
 
 .cta-blocks-item {
-    background-color: #f5f4f7
 }
 
 .cta-blocks-item-link {
@@ -5551,7 +5550,7 @@ tr:first-child .content-table .content-table-th-row td, tr:first-child .content-
         height: 120px;
         margin-bottom: 1.5%;
         margin-left: 2%;
-        width: 31.333%
+        width: 23%
     }
 
     .people-search-clear {
